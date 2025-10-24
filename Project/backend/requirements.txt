@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-Cors==3.0.10
+SQLAlchemy==2.0.22
+openai==0.28.0
+requests==2.32.5
